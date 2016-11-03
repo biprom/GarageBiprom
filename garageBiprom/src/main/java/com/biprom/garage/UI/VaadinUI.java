@@ -11,6 +11,7 @@ import com.vaadin.ui.UI;
 
 @SpringUI
 @Theme("valo")
+
 public class VaadinUI extends UI {
 	
 	@Autowired
